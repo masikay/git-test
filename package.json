@@ -20,5 +20,6 @@
   "homepage": "https://github.com/masikay/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.2.2"
-  }
+  },
+  "dependencies": {}
 }
